@@ -1,3 +1,3 @@
-$(function(){  // $(document).ready shorthand
-  $('#container').fadeIn('normal');
-});
+ $(function () {
+     $("#container").hide().fadeIn(2000);      // DOESN'T WORK
+ });
