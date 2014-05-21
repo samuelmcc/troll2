@@ -1,5 +1,8 @@
 
-* { margin: 0; padding: 0; }
+* { 
+	margin: 0;
+	padding: 0; 
+}
         
 body { 
             background: url(../img/parked.jpg) no-repeat center center fixed; 
